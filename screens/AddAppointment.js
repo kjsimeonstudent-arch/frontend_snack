@@ -30,3 +30,10 @@ export default function AddAppointment({ navigation }) {
     </View>
   );
 }
+
+
+
+
+
+
+// draft structure version 1
