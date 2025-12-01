@@ -44,3 +44,15 @@ export default function AppointmentList({ navigation }) {
     </View>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+// draft structure version 1
